@@ -1,0 +1,7 @@
+if game.PlaceId == 4924922222 then -- Brookhaven
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto1/testif/main/itself"))()
+end
+
+if game.PlaceId == 168556275 then -- Fencing
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto1/fencing/main/trying"))()
+end
